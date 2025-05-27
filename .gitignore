@@ -1,0 +1,10 @@
+# Ignorer tous les fichiers et dossiers sauf ceux spécifiés
+*
+!dpe_model.joblib
+!.gitignore
+# Exclure les dossiers spécifiques (ajustez selon vos besoins)
+data/
+temp/
+__pycache__/
+*.log
+*.bak
