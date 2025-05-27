@@ -1,0 +1,366 @@
+variable,category,ordinal_rank
+qualite_isolation_enveloppe,"insuffisante",0
+qualite_isolation_enveloppe,"moyenne",1
+qualite_isolation_enveloppe,"bonne",2
+qualite_isolation_enveloppe,"très bonne",3
+qualite_isolation_murs,"insuffisante",0
+qualite_isolation_murs,"moyenne",1
+qualite_isolation_murs,"bonne",2
+qualite_isolation_murs,"très bonne",3
+qualite_isolation_menuiseries,"insuffisante",0
+qualite_isolation_menuiseries,"moyenne",1
+qualite_isolation_menuiseries,"bonne",2
+qualite_isolation_menuiseries,"très bonne",3
+classe_inertie_batiment,"Légère",0
+classe_inertie_batiment,"Moyenne",1
+classe_inertie_batiment,"Lourde",2
+classe_inertie_batiment,"Très lourde",3
+classe_altitude,"inférieur à 400m",0
+classe_altitude,"400-800m",1
+classe_altitude,"supérieur à 800m",2
+code_departement_ban,"15",0
+code_departement_ban,"48",1
+code_departement_ban,"23",2
+code_departement_ban,"63",3
+code_departement_ban,"43",4
+code_departement_ban,"58",5
+code_departement_ban,"90",6
+code_departement_ban,"974",7
+code_departement_ban,"05",8
+code_departement_ban,"75",9
+code_departement_ban,"19",10
+code_departement_ban,"10",11
+code_departement_ban,"972",12
+code_departement_ban,"81",13
+code_departement_ban,"62",14
+code_departement_ban,"71",15
+code_departement_ban,"27",16
+code_departement_ban,"28",17
+code_departement_ban,"73",18
+code_departement_ban,"02",19
+code_departement_ban,"46",20
+code_departement_ban,"45",21
+code_departement_ban,"07",22
+code_departement_ban,"70",23
+code_departement_ban,"59",24
+code_departement_ban,"39",25
+code_departement_ban,"04",26
+code_departement_ban,"09",27
+code_departement_ban,"36",28
+code_departement_ban,"16",29
+code_departement_ban,"74",30
+code_departement_ban,"22",31
+code_departement_ban,"37",32
+code_departement_ban,"61",33
+code_departement_ban,"89",34
+code_departement_ban,"08",35
+code_departement_ban,"84",36
+code_departement_ban,"80",37
+code_departement_ban,"12",38
+code_departement_ban,"41",39
+code_departement_ban,"78",40
+code_departement_ban,"92",41
+code_departement_ban,"18",42
+code_departement_ban,"79",43
+code_departement_ban,"42",44
+code_departement_ban,"93",45
+code_departement_ban,"69",46
+code_departement_ban,"60",47
+code_departement_ban,"55",48
+code_departement_ban,"03",49
+code_departement_ban,"94",50
+code_departement_ban,"95",51
+code_departement_ban,"91",52
+code_departement_ban,"24",53
+code_departement_ban,"14",54
+code_departement_ban,"82",55
+code_departement_ban,"76",56
+code_departement_ban,"44",57
+code_departement_ban,"21",58
+code_departement_ban,"88",59
+code_departement_ban,"86",60
+code_departement_ban,"56",61
+code_departement_ban,"83",62
+code_departement_ban,"67",63
+code_departement_ban,"51",64
+code_departement_ban,"25",65
+code_departement_ban,"72",66
+code_departement_ban,"47",67
+code_departement_ban,"17",68
+code_departement_ban,"68",69
+code_departement_ban,"77",70
+code_departement_ban,"30",71
+code_departement_ban,"971",72
+code_departement_ban,"50",73
+code_departement_ban,"85",74
+code_departement_ban,"26",75
+code_departement_ban,"29",76
+code_departement_ban,"33",77
+code_departement_ban,"53",78
+code_departement_ban,"40",79
+code_departement_ban,"65",80
+code_departement_ban,"87",81
+code_departement_ban,"38",82
+code_departement_ban,"54",83
+code_departement_ban,"31",84
+code_departement_ban,"01",85
+code_departement_ban,"32",86
+code_departement_ban,"52",87
+code_departement_ban,"57",88
+code_departement_ban,"49",89
+code_departement_ban,"64",90
+code_departement_ban,"13",91
+code_departement_ban,"973",92
+code_departement_ban,"35",93
+code_departement_ban,"2A",94
+code_departement_ban,"2B",95
+code_departement_ban,"11",96
+code_departement_ban,"34",97
+code_departement_ban,"06",98
+code_departement_ban,"66",99
+type_energie_principale_chauffage,"Fioul domestique",0
+type_energie_principale_chauffage,"GPL",1
+type_energie_principale_chauffage,"Gaz naturel",2
+type_energie_principale_chauffage,"Réseau de Chauffage urbain",3
+type_energie_principale_chauffage,"Électricité",4
+type_energie_principale_chauffage,"Bois – Bûches",5
+type_energie_principale_chauffage,"Bois – Plaquettes forestières",6
+type_energie_principale_chauffage,"Bois – Plaquettes d’industrie",7
+type_energie_principale_chauffage,"Bois – Granulés (pellets) ou briquettes",8
+type_generateur_chauffage_principal,"Chaudière fioul classique avant 1970",0
+type_generateur_chauffage_principal,"Chaudière fioul classique 1970-1975",1
+type_generateur_chauffage_principal,"Chaudière fioul classique 1976-1980",2
+type_generateur_chauffage_principal,"Chaudière fioul classique 1981-1990",3
+type_generateur_chauffage_principal,"Chaudière gaz classique avant 1981",4
+type_generateur_chauffage_principal,"Chaudière gaz classique 1981-1985",5
+type_generateur_chauffage_principal,"Chaudière gaz classique 1986-1990",6
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane classique avant 1981",7
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane classique 1981-1985",8
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane classique 1986-1990",9
+type_generateur_chauffage_principal,"Chaudière fioul standard 1991-2015",10
+type_generateur_chauffage_principal,"Chaudière fioul basse température 1991-2015",11
+type_generateur_chauffage_principal,"Chaudière gaz standard 1991-2000",12
+type_generateur_chauffage_principal,"Chaudière gaz standard 2001-2015",13
+type_generateur_chauffage_principal,"Chaudière gaz basse température 1991-2000",14
+type_generateur_chauffage_principal,"Chaudière gaz basse température 2001-2015",15
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane standard 1991-2000",16
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane standard 2001-2015",17
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane basse température 1991-2000",18
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane basse température 2001-2015",19
+type_generateur_chauffage_principal,"convecteur bi-jonction",20
+type_generateur_chauffage_principal,"Autres émetteurs à effet joule",21
+type_generateur_chauffage_principal,"Radiateur électrique à accumulation",22
+type_generateur_chauffage_principal,"Cuisinière installé avant 1990",23
+type_generateur_chauffage_principal,"Plancher ou plafond rayonnant électrique sans régulation terminale",24
+type_generateur_chauffage_principal,"Poêle bûche installé avant 1990",25
+type_generateur_chauffage_principal,"Poêle bûche installé entre 1990 et 2004",26
+type_generateur_chauffage_principal,"Poêle bûche installé à partir de 2005 sans label flamme verte",27
+type_generateur_chauffage_principal,"Poêle à granulés installée avant 2012 ou sans label flamme verte",28
+type_generateur_chauffage_principal,"Poêle fioul ou GPL ou charbon",29
+type_generateur_chauffage_principal,"Chaudière bois bûche avant 1978",30
+type_generateur_chauffage_principal,"Chaudière bois granulés avant 1978",31
+type_generateur_chauffage_principal,"Chaudière bois plaquette avant 1978",32
+type_generateur_chauffage_principal,"Chaudière bois bûche 1978-1994",33
+type_generateur_chauffage_principal,"Chaudière bois granulés 1978-1994",34
+type_generateur_chauffage_principal,"Chaudière bois bûche 1995-2003",35
+type_generateur_chauffage_principal,"Chaudière bois plaquette 1995-2003",36
+type_generateur_chauffage_principal,"Chaudière fioul standard après 2015",37
+type_generateur_chauffage_principal,"Chaudière fioul basse température après 2015",38
+type_generateur_chauffage_principal,"Chaudière fioul à condensation 1996-2015",39
+type_generateur_chauffage_principal,"Chaudière fioul à condensation après 2015",40
+type_generateur_chauffage_principal,"autre système à combustion gaz",41
+type_generateur_chauffage_principal,"Chaudière gaz standard après 2015",42
+type_generateur_chauffage_principal,"Chaudière gaz basse température après 2015",43
+type_generateur_chauffage_principal,"Chaudière gaz à condensation 1981-1985",44
+type_generateur_chauffage_principal,"Chaudière gaz à condensation 1986-2000",45
+type_generateur_chauffage_principal,"Chaudière gaz à condensation 2001-2015",46
+type_generateur_chauffage_principal,"Chaudière gaz à condensation après 2015",47
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane standard après 2015",48
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane basse température après 2015",49
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane à condensation 1981-1985",50
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane à condensation 1986-2000",51
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane à condensation 2001-2015",52
+type_generateur_chauffage_principal,"Chaudière gpl/propane/butane à condensation après 2015",53
+type_generateur_chauffage_principal,"Convecteur électrique NFC, NF** et NF***",54
+type_generateur_chauffage_principal,"Panneau rayonnant électrique NFC, NF** et NF***",55
+type_generateur_chauffage_principal,"radiateur électrique NFC, NF** et NF***",56
+type_generateur_chauffage_principal,"Plancher ou plafond rayonnant électrique avec régulation terminale",57
+type_generateur_chauffage_principal,"Réseau de chaleur non isolé",58
+type_generateur_chauffage_principal,"Réseau de chaleur isolé",59
+type_generateur_chauffage_principal,"Chaudière(s) charbon multi bâtiment modélisée comme un réseau de chaleur",60
+type_generateur_chauffage_principal,"Chaudière(s) fioul multi bâtiment modélisée comme un réseau de chaleur",61
+type_generateur_chauffage_principal,"Chaudière(s) gaz multi bâtiment modélisée comme un réseau de chaleur",62
+type_generateur_chauffage_principal,"Chaudière(s) bois multi bâtiment modélisée comme un réseau de chaleur",63
+type_generateur_chauffage_principal,"Pompe(s) à chaleur multi bâtiment modélisée comme un réseau de chaleur",64
+type_generateur_chauffage_principal,"Poêle bûche installé de 2005 à 2006 avec label flamme verte",65
+type_generateur_chauffage_principal,"Poêle bûche installé de 2007 à 2017 avec label flamme verte",66
+type_generateur_chauffage_principal,"Poêle bûche installé à partir de 2018 avec label flamme verte",67
+type_generateur_chauffage_principal,"Poêle à granulés flamme verte installé entre 2012 et 2019",68
+type_generateur_chauffage_principal,"Poêle à granulés flamme verte installé à partir de 2020",69
+type_generateur_chauffage_principal,"Chaudière bois bûche 2004-2012",70
+type_generateur_chauffage_principal,"Chaudière bois plaquette 2004-2012",71
+type_generateur_chauffage_principal,"Chaudière bois granulés 2004-2012",72
+type_generateur_chauffage_principal,"Chaudière bois bûche 2013-2017",73
+type_generateur_chauffage_principal,"Chaudière bois plaquette 2013-2017",74
+type_generateur_chauffage_principal,"Chaudière bois bûche 2018-2019",75
+type_generateur_chauffage_principal,"Chaudière bois plaquette 2018-2019",76
+type_generateur_chauffage_principal,"Chaudière bois granulés 2013-2019",77
+type_generateur_chauffage_principal,"Chaudière bois bûche après 2019",78
+type_generateur_chauffage_principal,"Chaudière bois plaquette après 2019",79
+type_generateur_chauffage_principal,"Chaudière bois granulés après 2019",80
+type_generateur_chauffage_principal,"PAC air/air installée avant 2008",81
+type_generateur_chauffage_principal,"PAC air/eau installée avant 2008",82
+type_generateur_chauffage_principal,"PAC eau/eau installée avant 2008",83
+type_generateur_chauffage_principal,"PAC géothermique installée avant 2008",84
+type_generateur_chauffage_principal,"PAC air/air installée entre 2008 et 2014",85
+type_generateur_chauffage_principal,"PAC air/eau installée entre 2008 et 2014",86
+type_generateur_chauffage_principal,"pompe à chaleur hybride : partie pompe à chaleur PAC air/eau installée entre 2008 et 2014",87
+type_generateur_chauffage_principal,"PAC eau/eau installée entre 2008 et 2014",88
+type_generateur_chauffage_principal,"PAC géothermique installée entre 2008 et 2014",89
+type_generateur_chauffage_principal,"PAC air/air installée à partir de 2015",90
+type_generateur_chauffage_principal,"PAC air/eau installée entre 2015 et 2016",91
+type_generateur_chauffage_principal,"pompe à chaleur hybride : partie pompe à chaleur PAC air/eau installée entre 2015 et 2016",92
+type_generateur_chauffage_principal,"PAC eau/eau installée entre 2015 et 2016",93
+type_generateur_chauffage_principal,"PAC géothermique installée entre 2015 et 2016",94
+type_generateur_chauffage_principal,"PAC air/eau installée après 2017",95
+type_generateur_chauffage_principal,"PAC eau/eau installée après 2017",96
+type_generateur_chauffage_principal,"PAC géothermique installée après 2017",97
+type_generateur_chauffage_principal,"PAC eau glycolée/eau installée entre 2008 et 2014",98
+type_generateur_chauffage_principal,"PAC eau glycolée/eau installée après 2017",99
+type_generateur_chauffage_principal,"pompe à chaleur hybride : partie pompe à chaleur PAC air/eau installée après 2017",100
+type_generateur_chauffage_principal,"générateur à air chaud à combustion avant 2006",101
+type_generateur_chauffage_principal,"générateur à air chaud à combustion standard a partir de 2006",102
+type_generateur_chauffage_principal,"radiateur à gaz indépendant ou autonome avant 2006",103
+type_generateur_chauffage_principal,"radiateur à gaz indépendant ou autonome après 2006",104
+type_generateur_chauffage_principal,"Chaudière électrique",105
+type_generateur_chauffage_principal_ecs,"Chaudière fioul classique avant 1970",0
+type_generateur_chauffage_principal_ecs,"Chaudière fioul classique 1970-1975",1
+type_generateur_chauffage_principal_ecs,"Chaudière fioul classique 1976-1980",2
+type_generateur_chauffage_principal_ecs,"Chaudière fioul classique 1981-1990",3
+type_generateur_chauffage_principal_ecs,"Chaudière gaz classique avant 1981",4
+type_generateur_chauffage_principal_ecs,"Chaudière gaz classique 1981-1985",5
+type_generateur_chauffage_principal_ecs,"Chaudière gaz classique 1986-1990",6
+type_generateur_chauffage_principal_ecs,"Chaudière gpl/propane/butane classique avant 1981",7
+type_generateur_chauffage_principal_ecs,"Chaudière gpl/propane/butane classique 1981-1985",8
+type_generateur_chauffage_principal_ecs,"Chaudière gpl/propane/butane classique 1986-1990",9
+type_generateur_chauffage_principal_ecs,"Chauffe-eau gaz à production instantanée avant 1980",10
+type_generateur_chauffage_principal_ecs,"Chauffe-eau gpl/propane/butane à production instantanée avant 1980",11
+type_generateur_chauffage_principal_ecs,"Chauffe-eau gaz à production instantanée 1981-1989",12
+type_generateur_chauffage_principal_ecs,"Chauffe-eau gpl/propane/butane à production instantanée 1990-2000",13
+type_generateur_chauffage_principal_ecs,"Chauffe-eau gaz à production instantanée 1990-2000",14
+type_generateur_chauffage_principal_ecs,"Chauffe-eau gpl/propane/butane à production instantanée 2001-2015",15
+type_generateur_chauffage_principal_ecs,"Chauffe-eau gaz à production instantanée 2001-2015",16
+type_generateur_chauffage_principal_ecs,"Accumulateur gaz classique avant 1990",17
+type_generateur_chauffage_principal_ecs,"Accumulateur gpl/propane/butane classique avant 1990",18
+type_generateur_chauffage_principal_ecs,"Accumulateur gaz classique 1990-2000",19
+type_generateur_chauffage_principal_ecs,"Chaudière fioul standard 1991-2015",20
+type_generateur_chauffage_principal_ecs,"Chaudière fioul basse température 1991-2015",21
+type_generateur_chauffage_principal_ecs,"Chaudière gaz standard 1991-2000",22
+type_generateur_chauffage_principal_ecs,"Chaudière gaz basse température 1991-2000",23
+type_generateur_chauffage_principal_ecs,"Chaudière gpl/propane/butane standard 1991-2000",24
+type_generateur_chauffage_principal_ecs,"Accumulateur gaz classique après 2000",25
+type_generateur_chauffage_principal_ecs,"Accumulateur gpl/propane/butane classique après 2000",26
+type_generateur_chauffage_principal_ecs,"Chaudière gaz standard 2001-2015",27
+type_generateur_chauffage_principal_ecs,"Chaudière gaz basse température 2001-2015",28
+type_generateur_chauffage_principal_ecs,"Chaudière gpl/propane/butane standard 2001-2015",29
+type_generateur_chauffage_principal_ecs,"Chauffe-eau gaz à production instantanée après 2015",30
+type_generateur_chauffage_principal_ecs,"Chauffe-eau gpl/propane/butane à production instantanée après 2015",31
+type_generateur_chauffage_principal_ecs,"Ballon électrique à accumulation horizontal",32
+type_generateur_chauffage_principal_ecs,"Ballon électrique à accumulation vertical Autres ou inconnue",33
+type_generateur_chauffage_principal_ecs,"Chaudière bois bûche avant 1978",34
+type_generateur_chauffage_principal_ecs,"Chaudière bois granulés avant 1978",35
+type_generateur_chauffage_principal_ecs,"Chaudière fioul standard après 2015",36
+type_generateur_chauffage_principal_ecs,"Chaudière fioul basse température après 2015",37
+type_generateur_chauffage_principal_ecs,"Chaudière gaz standard après 2015",38
+type_generateur_chauffage_principal_ecs,"Chaudière gaz basse température après 2015",39
+type_generateur_chauffage_principal_ecs,"Chaudière gpl/propane/butane standard après 2015",40
+type_generateur_chauffage_principal_ecs,"Chaudière fioul à condensation 1996-2015",41
+type_generateur_chauffage_principal_ecs,"Accumulateur gaz à condensation 1996-2000",42
+type_generateur_chauffage_principal_ecs,"Chaudière gaz à condensation 1981-1985",43
+type_generateur_chauffage_principal_ecs,"Chaudière gaz à condensation 1986-2000",44
+type_generateur_chauffage_principal_ecs,"Chaudière bois bûche 2004-2012",45
+type_generateur_chauffage_principal_ecs,"Chaudière bois plaquette 2004-2012",46
+type_generateur_chauffage_principal_ecs,"Chaudière bois granulés 2004-2012",47
+type_generateur_chauffage_principal_ecs,"Accumulateur gaz à condensation après 2000",48
+type_generateur_chauffage_principal_ecs,"Chaudière gaz à condensation 2001-2015",49
+type_generateur_chauffage_principal_ecs,"Chauffe-eau électrique instantané",50
+type_generateur_chauffage_principal_ecs,"Chaudière électrique",51
+type_generateur_chauffage_principal_ecs,"Chaudière fioul à condensation après 2015",52
+type_generateur_chauffage_principal_ecs,"Chaudière gpl/propane/butane à condensation après 2015",53
+type_generateur_chauffage_principal_ecs,"Chaudière gaz à condensation après 2015",54
+type_generateur_chauffage_principal_ecs,"Chaudière bois bûche 2013-2017",55
+type_generateur_chauffage_principal_ecs,"Chaudière bois plaquette 2013-2017",56
+type_generateur_chauffage_principal_ecs,"Chaudière bois granulés 2013-2019",57
+type_generateur_chauffage_principal_ecs,"Chaudière bois bûche 2018-2019",58
+type_generateur_chauffage_principal_ecs,"Chaudière bois plaquette 2018-2019",59
+type_generateur_chauffage_principal_ecs,"Chaudière(s) gaz multi bâtiment modélisée comme un réseau de chaleur",60
+type_generateur_chauffage_principal_ecs,"Chaudière bois bûche après 2019",61
+type_generateur_chauffage_principal_ecs,"Chaudière bois plaquette après 2019",62
+type_generateur_chauffage_principal_ecs,"Chaudière bois granulés après 2019",63
+type_generateur_chauffage_principal_ecs,"Chaudière(s) bois multi bâtiment modélisée comme un réseau de chaleur",64
+type_generateur_chauffage_principal_ecs,"Ballon électrique à accumulation vertical Catégorie B ou 2 étoiles",65
+type_generateur_chauffage_principal_ecs,"Ballon électrique à accumulation vertical Catégorie C ou 3 étoiles",66
+type_generateur_chauffage_principal_ecs,"Réseau de chaleur non isolé",67
+type_generateur_chauffage_principal_ecs,"Réseau de chaleur isolé",68
+type_generateur_chauffage_principal_ecs,"CET sur air extérieur avant 2010",69
+type_generateur_chauffage_principal_ecs,"CET sur air extrait avant 2010",70
+type_generateur_chauffage_principal_ecs,"PAC double service avant 2010",71
+type_generateur_chauffage_principal_ecs,"CET sur air extérieur 2010-2014",72
+type_generateur_chauffage_principal_ecs,"CET sur air extrait 2010-2014",73
+type_generateur_chauffage_principal_ecs,"PAC double service 2010-2014",74
+type_generateur_chauffage_principal_ecs,"CET sur air ambiant (sur local non chauffé) après 2014",75
+type_generateur_chauffage_principal_ecs,"CET sur air extérieur après 2014",76
+type_generateur_chauffage_principal_ecs,"CET sur air extrait après 2014",77
+type_generateur_chauffage_principal_ecs,"PAC double service après 2014",78
+type_generateur_chauffage_principal_ecs,"autre système à combustion gaz",79
+type_generateur_chauffage_principal_ecs,"autre système thermodynamique électrique",80
+type_generateur_chauffage_principal_ecs,"Accumulateur gpl/propane/butane à condensation après 2000",81
+type_generateur_chauffage_principal_ecs,"CET sur air ambiant (sur local non chauffé) 2010-2014",82
+type_generateur_chauffage_principal_ecs,"CET sur air ambiant (sur local non chauffé) avant 2010",83
+type_generateur_chauffage_principal_ecs,"Chaudière bois bûche 1995-2003",84
+type_generateur_chauffage_principal_ecs,"Chaudière gpl/propane/butane à condensation 1986-2000",85
+type_generateur_chauffage_principal_ecs,"Chaudière gpl/propane/butane à condensation 2001-2015",86
+type_generateur_chauffage_principal_ecs,"Chaudière gpl/propane/butane basse température 1991-2000",87
+type_generateur_chauffage_principal_ecs,"Chaudière gpl/propane/butane basse température 2001-2015",88
+type_generateur_chauffage_principal_ecs,"Chaudière(s) charbon multi bâtiment modélisée comme un réseau de chaleur",89
+type_generateur_chauffage_principal_ecs,"Chaudière(s) fioul multi bâtiment modélisée comme un réseau de chaleur",90
+type_generateur_chauffage_principal_ecs,"chauffe-eau électrique instantané",91
+type_generateur_chauffage_principal_ecs,"pompe à chaleur hybride : partie chaudière Chaudière gaz à condensation 2001-2015",92
+type_generateur_chauffage_principal_ecs,"pompe à chaleur hybride : partie chaudière Chaudière gaz à condensation après 2015",93
+type_generateur_chauffage_principal_ecs,"pompe à chaleur hybride : partie chaudière Chaudière gpl/propane/butane à condensation 2001-2015",94
+type_generateur_chauffage_principal_ecs,"Pompe(s) à chaleur multi bâtiment modélisée comme un réseau de chaleur",95
+type_ventilation,"Ventilation par ouverture des fenêtres",0
+type_ventilation,"Ventilation par entrées d'air hautes et basses",1
+type_ventilation,"Ventilation naturelle par conduit",2
+type_ventilation,"Ventilation naturelle par conduit avec entrées d'air hygro",3
+type_ventilation,"Ventilation hybride avant 2001",4
+type_ventilation,"Ventilation hybride avec entrées d'air hygro avant 2001",5
+type_ventilation,"VMC SF Gaz avant 2001",6
+type_ventilation,"VMC SF Hygro A avant 2001",7
+type_ventilation,"VMC SF Hygro B avant 2001",8
+type_ventilation,"VMC SF Auto réglable avant 1982",9
+type_ventilation,"VMC SF Auto réglable de 1982 à 2000",10
+type_ventilation,"Ventilation hybride de 2001 à 2012",11
+type_ventilation,"Ventilation hybride avec entrées d'air hygro de 2001 à 2012",12
+type_ventilation,"VMC SF Gaz de 2001 à 2012",13
+type_ventilation,"VMC SF Hygro A de 2001 à 2012",14
+type_ventilation,"VMC SF Hygro B de 2001 à 2012",15
+type_ventilation,"VMC SF Auto réglable de 2001 à 2012",16
+type_ventilation,"VMC Basse pression Auto-réglable",17
+type_ventilation,"VMC Basse pression Hygro A",18
+type_ventilation,"VMC Basse pression Hygro B",19
+type_ventilation,"Ventilation mécanique sur conduit existant avant 2013",20
+type_ventilation,"VMC DF sans échangeur avant 2013",21
+type_ventilation,"VMC DF individuelle avec échangeur avant 2013",22
+type_ventilation,"VMC DF collective avec échangeur avant 2013",23
+type_ventilation,"Ventilation hybride après 2012",24
+type_ventilation,"Ventilation hybride avec entrées d'air hygro après 2012",25
+type_ventilation,"VMC SF Gaz après 2012",26
+type_ventilation,"VMC SF Hygro A après 2012",27
+type_ventilation,"VMC SF Hygro B après 2012",28
+type_ventilation,"VMC SF Auto réglable après 2012",29
+type_ventilation,"Ventilation mécanique sur conduit existant à partir de 2013",30
+type_ventilation,"VMC DF sans échangeur après 2012",31
+type_ventilation,"VMC DF individuelle avec échangeur à partir de 2013",32
+type_ventilation,"VMC DF collective avec échangeur à partir de 2013",33
+type_ventilation,"Puits climatique avec échangeur à partir de 2013",34
