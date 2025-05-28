@@ -58,12 +58,17 @@ for col in categorical_columns:
 # Injecter du CSS pour personnaliser le bouton
 customized_button = st.markdown("""
     <style >
+     div[data-testid="stFormSubmitButton"] {
+        display: flex !important;
+        justify-content: flex-end !important;
+        margin-top: 10px !important;
+    }
     div.stButton > button:first-child {
-        background-color: #578a00;
+        background-color: #28a745;
         color:#ffffff;
     }
     div.stButton > button:hover {
-        background-color: #00128a;
+        background-color: #218838;
         color:#ffffff;
         }
     </style>""", unsafe_allow_html=True)
